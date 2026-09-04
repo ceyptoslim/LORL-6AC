@@ -195,3 +195,6 @@ frolifeproductions@gmail.com
 ---
 
 *This whitepaper is ready for distribution to investors, research labs, and strategic partners.*
+## License
+
+AGPL-3.0 — see [LICENSE](LICENSE).
