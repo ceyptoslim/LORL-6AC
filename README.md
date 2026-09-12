@@ -1,3 +1,5 @@
+> **Note (Sept 2026):** this is the April 2026 research whitepaper, kept for lineage. The implemented, tested components are **[LORL-9.1](https://github.com/ceyptoslim/LORL-9.1)** and **[CUSTOS-CORE](https://github.com/ceyptoslim/CUSTOS-CORE)**. Nothing here is deployed software.
+
 # LORL‑6A/C: A Self‑Improving AI Platform with Guaranteed Stability
 
 **Investor & Research Whitepaper**  
